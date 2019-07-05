@@ -1,7 +1,7 @@
 {
-  "name": "angular2-signaturepad",
+  "name": "angular4-signaturepad",
   "version": "1.0.0",
-  "description": "Angular2 Component wrapper for szimek / signature_pad",
+  "description": "Angular4 Component wrapper for szimek / signature_pad",
   "main": "index.js",
   "typings": "./index.d.ts",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/optimacycorp/angular2-signaturepad.git"
+    "url": "git+https://github.com/optimacycorp/angular4-signaturepad.git"
   },
   "keywords": [
     "signature",
@@ -21,9 +21,9 @@
   "author": "Thomas Costandine",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/optimacycorp/angular2-signaturepad/issues"
+    "url": "https://github.com/optimacycorp/angular4-signaturepad/issues"
   },
-  "homepage": "https://github.com/optimacycorp/angular2-signaturepad#readme",
+  "homepage": "https://github.com/optimacycorp/angular4-signaturepad#readme",
   "dependencies": {
     "signature_pad": "beta"
   },
